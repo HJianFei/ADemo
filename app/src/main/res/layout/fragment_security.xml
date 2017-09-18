@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_picture_map"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context="com.apace.ydimall.view.fragment.car.security.SecurityFragment">
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/anfang" />
+</LinearLayout>
